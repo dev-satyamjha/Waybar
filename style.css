@@ -215,11 +215,8 @@ window#waybar {
 }
 
 #battery {
-<<<<<<< HEAD
     background-color: rgba(1, 1, 1, 0.9); /* black */
-=======
     background-color: rgba(1,1,1,0.9);
->>>>>>> d8021499517f6f88cf3f4fc112c9a18d51ce1406
     color: #a6e3a1;
     font-weight: bolder;
     padding-left: 12px;
