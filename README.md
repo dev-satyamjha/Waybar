@@ -1,2 +1,2 @@
 # Waybar
- It contains the dotfiles for my waybar
+ It contains the dotfiles of my waybar
